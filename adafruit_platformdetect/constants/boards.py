@@ -645,13 +645,13 @@ _SIEMENS_SIMATIC_IOT2000_IDS = (
 
 # Libre Computer Boards
 AML_S905X_CC = "AML-S905X-CC"
-AML_S805X_CC = "aml-805x-acamlogic"
+AML_S805X_AC = "AML-S805X-AC"
 ROC_RK3328_CC = "ROC-RK3328-CC"
 
 # Libre Computer Boards
 _LIBRE_COMPUTER_IDS = (
     AML_S905X_CC,
-    AML_S805X_CC,
+    AML_S805X_AC,
     ROC_RK3328_CC,
 )
 
